@@ -20,6 +20,7 @@ What we had implemented is a Java application which is an automatic Gomoku game 
 5. Speed up - boundary of searching
 ## User Interface Design
 <img src="https://github.com/MarkKai/Gobang/blob/master/userInterface/1.png" height="50%" width="50%">
-<img src="https://github.com/MarkKai/Gobang/blob/master/userInterface/2.png" height="50%" width="50%">
+<img src="https://github.com/MarkKai/Gobang/blob/master/userInterface/2.png" height="50%" width="50%"></img>
+
 ## Setup
 
